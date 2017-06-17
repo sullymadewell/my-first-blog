@@ -25,7 +25,7 @@ SECRET_KEY = '*&7d!-d*k($5xo#o+5+(e!15mrskk$&2wc1-lbuco=+nvl0z8h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'sully.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sullyblog.pythonanywhere.com']
 
 
 # Application definition
